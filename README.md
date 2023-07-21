@@ -1,6 +1,6 @@
 # Fx Rates UI
 
-Dashboard for user management for FX Rates
+Dashboard for user management for FX Rates. Data is fetched from edge functions [here](https://github.com/munanadi/fxrates-backend)
 
 1. `/dahboard` or `/` page that shows the accounts overall health and transactions
 2. `/transactions` that list transactions that can be filtered and serached through
